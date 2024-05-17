@@ -39,6 +39,3 @@ Addressing this vulnerability requires the implementation of robust access contr
 
 Identifying this vulnerability underscores the necessity for stringent, server-side security protocols to prevent unauthorized data access. By adopting the recommended security measures, `[Application/Website Name]` can significantly improve its defense against data breaches and unauthorized access.
 
-## Screenshots
-
-> Add your screenshots here to visually demonstrate the vulnerability and the steps taken to identify it.
